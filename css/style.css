@@ -1,0 +1,14 @@
+main {
+    min-height: calc(100vh - 160px);
+    background: linear-gradient(95deg, #000000, #4B0082, #4343aa, #cf659e);
+    min-height: 100vh;
+    color: #0f0f0f;
+  }
+
+p{
+  color: white;
+}
+
+.fw-light{
+  color: white;
+}
